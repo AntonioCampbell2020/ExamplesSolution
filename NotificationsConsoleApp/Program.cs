@@ -10,6 +10,8 @@ namespace NotificationsConsoleApp
 
             do
             {
+
+
                 Console.WriteLine();
                 Console.WriteLine("1 - Messages");
                 Console.WriteLine("2 - Friendship Requests");
